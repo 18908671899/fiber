@@ -1,0 +1,167 @@
+[INFO-a418cfb3-7b43-45ec-b770-ba15471dc658]10:51:50 pid: 22128 status:400 - GET path: / queryParams:  body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-a518cfb3-7b43-45ec-b770-ba15471dc658]10:51:50 pid: 22128 status:400 - GET path: /favicon.ico queryParams:  body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-a618cfb3-7b43-45ec-b770-ba15471dc658]10:51:58 pid: 22128 status:400 - GET path: /login queryParams:  body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-a718cfb3-7b43-45ec-b770-ba15471dc658]10:51:58 pid: 22128 status:400 - GET path: /favicon.ico queryParams:  body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-a818cfb3-7b43-45ec-b770-ba15471dc658]10:53:07 pid: 22128 status:400 - POST path: /login queryParams: username=admin&password=admin body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-a918cfb3-7b43-45ec-b770-ba15471dc658]10:53:58 pid: 22128 status:400 - POST path: /login queryParams: username=admin&password=admin body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-aa18cfb3-7b43-45ec-b770-ba15471dc658]10:55:06 pid: 22128 status:400 - POST path: /login queryParams: username=admin&password=admin body: ----------------------------824418197705328160007581
+Content-Disposition: form-data; name="password"
+
+admin
+----------------------------824418197705328160007581
+Content-Disposition: form-data; name="username"
+
+admin
+----------------------------824418197705328160007581--
+
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-ab18cfb3-7b43-45ec-b770-ba15471dc658]10:55:39 pid: 22128 status:400 - POST path: /login queryParams: username=admin&password=admin body: {
+    "username": "admin",
+    "password": "admin"
+}
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-ac18cfb3-7b43-45ec-b770-ba15471dc658]11:00:56 pid: 22128 status:400 - POST path: /login queryParams: username=admin&password=admin body: {
+    "username": "admin",
+    "password": "admin1"
+}
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-ad18cfb3-7b43-45ec-b770-ba15471dc658]11:01:08 pid: 22128 status:400 - POST path: /login queryParams:  body: {
+    "username": "admin",
+    "password": "admin1"
+}
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-ae18cfb3-7b43-45ec-b770-ba15471dc658]11:01:13 pid: 22128 status:400 - POST path: /login queryParams:  body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-af18cfb3-7b43-45ec-b770-ba15471dc658]11:01:30 pid: 22128 status:400 - POST path: /login queryParams: username=admin&password=admin body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-b018cfb3-7b43-45ec-b770-ba15471dc658]11:09:33 pid: 22128 status:400 - POST path: /login queryParams: username=admin&password=admin body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-b118cfb3-7b43-45ec-b770-ba15471dc658]11:09:36 pid: 22128 status:400 - POST path: /login queryParams: username=admin&password=admin123 body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-b218cfb3-7b43-45ec-b770-ba15471dc658]11:09:56 pid: 22128 status:400 - POST path: /login queryParams:  body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-b318cfb3-7b43-45ec-b770-ba15471dc658]11:10:05 pid: 22128 status:400 - POST path: /login queryParams:  body: {
+    "username": "admin",
+    "password": "admin1"
+}
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-b418cfb3-7b43-45ec-b770-ba15471dc658]11:10:06 pid: 22128 status:400 - POST path: /login queryParams:  body: {
+    "username": "admin",
+    "password": "admin1"
+}
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-b518cfb3-7b43-45ec-b770-ba15471dc658]11:10:16 pid: 22128 status:400 - POST path: /login queryParams:  body: ----------------------------175809493590646892629986
+Content-Disposition: form-data; name="username"
+
+admin123
+----------------------------175809493590646892629986
+Content-Disposition: form-data; name="password"
+
+admin123
+----------------------------175809493590646892629986--
+
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-b618cfb3-7b43-45ec-b770-ba15471dc658]11:10:17 pid: 22128 status:400 - POST path: /login queryParams:  body: ----------------------------168658662130188410391096
+Content-Disposition: form-data; name="username"
+
+admin123
+----------------------------168658662130188410391096
+Content-Disposition: form-data; name="password"
+
+admin123
+----------------------------168658662130188410391096--
+
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-b718cfb3-7b43-45ec-b770-ba15471dc658]11:10:45 pid: 22128 status:400 - POST path: /login queryParams:  body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-b818cfb3-7b43-45ec-b770-ba15471dc658]11:10:50 pid: 22128 status:400 - POST path: /login queryParams: username=admin&password=admin123 body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-0b00bb6d-a42c-4524-af4f-7839ebd739ef]11:17:59 pid: 16224 status:400 - POST path: /login queryParams: username=admin&password=admin123 body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-0c00bb6d-a42c-4524-af4f-7839ebd739ef]11:18:01 pid: 16224 status:400 - POST path: /login queryParams: username=admin&password=admin body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-0d00bb6d-a42c-4524-af4f-7839ebd739ef]11:18:02 pid: 16224 status:400 - POST path: /login queryParams: username=admin&password=admin body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-0e00bb6d-a42c-4524-af4f-7839ebd739ef]11:18:03 pid: 16224 status:400 - POST path: /login queryParams: username=admin&password=admin body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-0f00bb6d-a42c-4524-af4f-7839ebd739ef]11:18:03 pid: 16224 status:400 - POST path: /login queryParams: username=admin&password=admin body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-07938911-6a06-4036-ac58-aadba52a4d13]11:20:18 pid: 14700 status:400 - POST path: /login queryParams: username=admin&passwor=admin body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-08938911-6a06-4036-ac58-aadba52a4d13]11:20:20 pid: 14700 status:400 - POST path: /login queryParams: username=admin&passwor=admin body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-09938911-6a06-4036-ac58-aadba52a4d13]11:20:21 pid: 14700 status:400 - POST path: /login queryParams: username=admin&passwor=admin body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+[INFO-0a938911-6a06-4036-ac58-aadba52a4d13]11:20:22 pid: 14700 status:400 - POST path: /login queryParams: username=admin&passwor=admin body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+2023/03/20 11:30:05 [Unprocessable Entity]
+[INFO-95210045-af28-4b72-a351-30f3cad27288]11:30:05 pid: 15936 status:200 - POST path: /login queryParams: username=admin&passwor=admin body: 
+ resBody: {"code":500,"data":[{"FailedField":"Login.Username","Tag":"required","Value":""},{"FailedField":"Login.Password","Tag":"required","Value":""}],"message":"参数解析错误"}
+ error: -
+2023/03/20 11:30:10 [Unprocessable Entity]
+[INFO-96210045-af28-4b72-a351-30f3cad27288]11:30:10 pid: 15936 status:200 - POST path: /login queryParams: username=admin&password=admin body: 
+ resBody: {"code":500,"data":[{"FailedField":"Login.Username","Tag":"required","Value":""},{"FailedField":"Login.Password","Tag":"required","Value":""}],"message":"参数解析错误"}
+ error: -
+2023/03/20 11:30:12 [Unprocessable Entity]
+[INFO-97210045-af28-4b72-a351-30f3cad27288]11:30:11 pid: 15936 status:200 - POST path: /login queryParams: username=admin&password=admin body: 
+ resBody: {"code":500,"data":[{"FailedField":"Login.Username","Tag":"required","Value":""},{"FailedField":"Login.Password","Tag":"required","Value":""}],"message":"参数解析错误"}
+ error: -
+[INFO-98210045-af28-4b72-a351-30f3cad27288]11:30:23 pid: 15936 status:200 - POST path: /login queryParams:  body: {
+    "username": "admin",
+    "password": "admin"
+}
+ resBody: {"code":200,"data":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZG1pbiI6dHJ1ZSwiZXhwIjoxNjc5NTQyMjI0LCJ1c2VybmFtZSI6ImFkbWluIn0.WUwrpYiqH3xFdEjqfUP_9txeA7gzOqS2U5Ft8Yl43f0","message":"SUCCESS"}
+ error: -
+[INFO-99210045-af28-4b72-a351-30f3cad27288]11:30:53 pid: 15936 status:400 - GET path: /v1/test queryParams:  body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+2023/03/20 11:31:10 [map[admin:true exp:1.679542224e+09 username:admin]]
+[INFO-3635b844-b685-4e81-8769-52b7cb172a60]11:38:16 pid: 22324 status:400 - GET path: /v1/test queryParams:  body: 
+ resBody: {"code":400,"data":null,"message":"Missing or malformed JWT"}
+ error: -
+2023/03/20 11:38:30 [map[admin:true exp:1.679542224e+09 username:admin]]
+2023/03/20 11:42:48 [root:123456@tcp(192.168.1.3:3306)/fiber?charset=utf8mb4&parseTime=True&loc=Local]
+2023/03/20 11:43:00 [map[admin:true exp:1.679542224e+09 username:admin]]
+2023/03/20 11:43:21 [root:123456@tcp(192.168.1.3:3306)/fiber?charset=utf8mb4&parseTime=True&loc=Local]
+2023/03/20 11:44:34 [map[admin:true exp:1.679542224e+09 username:admin]]
+2023/03/20 11:45:21 [root:123456@tcp(192.168.1.3:3306)/fiber?charset=utf8mb4&parseTime=True&loc=Local]
+2023/03/20 11:45:23 [map[admin:true exp:1.679542224e+09 username:admin]]
+[INFO-e49dd38f-a7e5-4072-a377-13e959d9cafd]11:45:23 pid: 7092 status:200 - GET path: /v1/test queryParams:  body: 
+ resBody: {"code":200,"data":[{"id":1,"created_on":0,"modified_on":0,"name":"ydr"}],"message":"SUCCESS","query":{"id":0,"created_on":0,"modified_on":0,"name":""}}
+ error: -
